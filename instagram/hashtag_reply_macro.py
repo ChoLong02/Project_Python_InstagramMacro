@@ -18,8 +18,8 @@ time.sleep(3)
 # what is xpath?
 # : XPath는 W3C의 표준으로 확장 생성언어 문서의 구조를 통해 경로 위에
 #   지정한 구문을 사용하여 항목을 배치하고 처리하는 방법을 기술하는 언어
-driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[2]/div/label/input').send_keys('sentilemon02@gmail.com') # ID
-driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[3]/div/label/input').send_keys('cjfrkqkd') # PASSWD
+driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[2]/div/label/input').send_keys('') # ID
+driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[3]/div/label/input').send_keys('') # PASSWD
 driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[4]/button/div').click() # 로그인버튼 클릭
 
 # 3.HashTag Searching
