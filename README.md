@@ -24,7 +24,7 @@ Use the same version as the Chrome browser version you use!)
 
 ## :speech_balloon:How to use?
 
-    Give examples Prepare your Instagram ID and password.
+    Prepare your Instagram ID and password.
     
 1. Download the same version of the [chrome driver](https://chromedriver.chromium.org/downloads) as your Chrome browser
 2. Import the [project](https://github.com/ChoLong02/Project_Python_InstagramMacro) into Pycharm tool
