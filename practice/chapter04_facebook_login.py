@@ -14,7 +14,7 @@ driver = webdriver.Chrome(executable_path='{}/webdriver/chromedriver.exe'.format
 url = 'https://www.facebook.com/'
 driver.get(url) # 웹드라이버로 URL페이지 접속
 
-driver.find_element_by_id('email').send_keys('terrannnn@naver.com') # ID 입력하기
+driver.find_element_by_id('email').send_keys('') # ID 입력하기
 driver.find_element_by_id('pass').send_keys('') # PASS 입력하기
 # driver.find_element_by_id('pass').send_keys('sentilemon02') # PASS 입력하기
 driver.find_element_by_id('u_0_e').click() # 로그인 버튼 ID값이 보안때문에 수시로 변경됨
