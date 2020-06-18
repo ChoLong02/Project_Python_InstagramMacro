@@ -8,7 +8,7 @@ Python 기반의 Selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   - IDE Tool: [:computer:Pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
   - Package Manager: [:snake:Anaconda](https://www.anaconda.com/)
   - Using Package: [requests, selenium, beautifulsoup4, time, random](https://anaconda.org/)
-  - Using WebDriver: Chrome Driver(
+  - Using WebDriver: [Chrome Driver](https://chromedriver.chromium.org/downloads) (
 Use the same version as the Chrome browser version you use!)
 
 ## :floppy_disk:Repository structure description
