@@ -31,3 +31,4 @@ Use the same version as the Chrome browser version you use!)
 3. Create webdriver directory within project
 4. Drag and Drop the downloaded chrome driver to the webdriver directory
 5. Go to Instagram's Feed and check the selector(Refer to [instagram/hashtag_reply_macro.py](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/instagram/hashtag_reply_macro.py) 33 Line)
+6. Run the program!
