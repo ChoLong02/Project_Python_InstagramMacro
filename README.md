@@ -27,8 +27,8 @@ Use the same version as the Chrome browser version you use!)
     Give examples Prepare your Instagram ID and password.
     
   - manual
-    + Download the same version of the [chrome driver](https://chromedriver.chromium.org/downloads) as your Chrome browser
-    + Import the [project](https://github.com/ChoLong02/Project_Python_InstagramMacro) into Pycharm tool
+    1. Download the same version of the [chrome driver](https://chromedriver.chromium.org/downloads) as your Chrome browser
+    2. Import the [project](https://github.com/ChoLong02/Project_Python_InstagramMacro) into Pycharm tool
     3. Create webdriver directory within project
     4. Drag and Drop the downloaded chrome driver to the webdriver directory
     5. Go to Instagram's Feed and check the selector(Refer to [instagram/hashtag_reply_macro.py](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/instagram/hashtag_reply_macro.py) 33 Line)
